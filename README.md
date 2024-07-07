@@ -1,2 +1,2 @@
-# reposirotrio-dev-quest
-Repositorio contendo as aula e exercicios do DevQuest
+# repositorio-dev-quest
+Repositorio contendo as aulas e exercicios do DevQuest
