@@ -1,0 +1,15 @@
+{
+  "name": "modulo-testes-automatizados-jest-basico",
+  "version": "1.0.0",
+  "main": "calcular-valor-pedido.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.0.0"
+  }
+}
