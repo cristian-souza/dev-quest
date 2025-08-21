@@ -10,6 +10,8 @@ function App() {
       <BotaoExterno />
       <BotaoModule />
       <BotaoStyled />
+      <BotaoStyled />
+
       
       {/* <button className='my-button'>Clique aqui também</button> */}
       {/* <button className='myButton'>botão externo 2</button> */}
